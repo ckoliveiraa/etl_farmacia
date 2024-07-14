@@ -1,4 +1,4 @@
-<h1>Farmácias-BR</h1> 🏪
+<h1>Farmácias-BR 🏪 </h1> 
 
 > Status: Completo
 
