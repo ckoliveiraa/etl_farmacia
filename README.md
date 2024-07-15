@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1>Farmácias Brasil 🏪 </h1> 
 
 > Status: Completo
@@ -167,8 +167,7 @@ print("Arquivos CSV gerados com sucesso!")
 
 Para este exemplo, utilizamos a modelagem Star Schema, que é uma das mais comuns em bancos de dados de ERP. Abaixo está o diagrama do modelo.
 
-<img src="[https://github.com/ckoliveiraa/ETL-FarmaciasBR/blob/feat/readme/pic/db_farmacias.png?raw=true]" alt="Modelo BD Relacional">
-
+![Modelagem BD relacional](https://github.com/user-attachments/assets/efc1cc20-d97b-4eea-aa36-6e8918de1b6e)
 
 <h2>5. Processo ETL</h2>
 
@@ -721,7 +720,10 @@ Criação de tabelas otimizadas para consultas e análises.
 
 <h3>5.4 Arquitetura de Dados</h3>
 
-![Arquitetura de Dados](pic\ETL.png)
+(![Arquitetura de Dados](https://github.com/user-attachments/assets/09e8a09d-e275-499a-9c17-2804844da78c)
+
+
+)
 
 
 <h2>6. Integração com Power BI</h2>
@@ -745,13 +747,3 @@ Criação de dashboards e relatórios interativos para análise avançada dos da
 <h2>8. Conclusão</h2>
 
 A solução de ETL proposta garante que a Rede Farmácias Brasil tenha acesso a dados precisos e atualizados, proporcionando uma base sólida para a tomada de decisões estratégicas e operacionais. A integração com o Power BI oferece uma camada adicional de interatividade e insights através de dashboards e relatórios dinâmicos.
-=======
-<h1>Farmácias-BR 🏪 </h1> 
-
-> Status: Completo
-
-A ETL a seguir se trata de uma rede de farmácias ficticia onde há 5 unidades no Brasil, e nelas rodam um ERP e esse sistema geram relatórios em .csv. Segue abaixo a modelagem dos dados
-
-
-README em construção
->>>>>>> db42a3df88e81da123f92b4271a499b169be01e1
