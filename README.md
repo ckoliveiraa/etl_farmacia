@@ -167,7 +167,7 @@ print("Arquivos CSV gerados com sucesso!")
 
 Para este exemplo, utilizamos a modelagem Star Schema, que é uma das mais comuns em bancos de dados de ERP. Abaixo está o diagrama do modelo.
 
-![Modelo BD relacional](pic\db_farmacias.png)
+<img src="[https://github.com/ckoliveiraa/ETL-FarmaciasBR/blob/feat/readme/pic/db_farmacias.png?raw=true]" alt="Modelo BD Relacional">
 
 
 <h2>5. Processo ETL</h2>
